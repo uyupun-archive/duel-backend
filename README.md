@@ -14,7 +14,7 @@ DuelからのHTTPリクエストの受け口とパトランプを動作させる
 |PHP|PHP 7.0|
 |Python|Python 3.5.3|
 
-### 終焉を告げるPATRAMP
+### ✝終焉を告げるPATRAMP✝
 時間切れを通知する専用デバイスとして, 『終焉を告げるPATRAMP』を用意しました.
 
 <img src="./img/1.jpg" width="300">
